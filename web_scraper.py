@@ -11,3 +11,4 @@ with open("book.txt", "w", encoding="utf-8") as file:
         file.write(line.get_text())
     print("done")
     
+print(soup)
